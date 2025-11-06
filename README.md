@@ -19,7 +19,6 @@ Lovable AI accelerated initial scaffolding, but I implemented core modules, back
 
 🧱 Client-Side Encryption – AES encryption for privacy-first data storage.
 
-📊 User Dashboard – Local analytics for message and token usage.
 
 
 
