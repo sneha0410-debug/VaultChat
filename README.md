@@ -9,7 +9,7 @@ Lovable AI accelerated initial scaffolding, but I implemented core modules, back
 | **Security**       | AES-256 message encryption                     | Data encrypted before writing to Supabase, decrypted only locally |
 
 
-⚙️ Core Features
+⚙️ Core Features :
 
 🔐 Secure Authentication – Implemented Supabase Auth with session handling.
 
