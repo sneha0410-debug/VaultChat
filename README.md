@@ -1,5 +1,4 @@
 Vaultchat is a privacy-first AI chat vault that integrates secure data storage and conversational intelligence using Node.js and MongoDB. I focused on building encrypted message handling, authentication, and LLM-based summarization. It demonstrates my ability to design full-stack systems that prioritize both usability and data protection.
-Lovable AI accelerated initial scaffolding, but I implemented core modules, backend APIs, and security layers manually to align with production-grade engineering standards.
 
 | Layer              | Tech Stack                                     | Responsibilities                                                  |
 | ------------------ | ---------------------------------------------- | ----------------------------------------------------------------- |
